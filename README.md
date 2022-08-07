@@ -1,1 +1,1 @@
-samyukta shinde
+sammak shinde

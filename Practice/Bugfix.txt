@@ -5,6 +5,8 @@ Samyukta
 Four
 Five
 Six
+Seven
+Eight
 --
 Yellow
 Pink

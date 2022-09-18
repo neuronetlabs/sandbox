@@ -5,3 +5,6 @@ Samyukta
 Four
 Five
 Six
+Yellow
+Pink
+Purple

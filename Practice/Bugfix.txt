@@ -1,6 +1,7 @@
 Sachin
 Sammak
 Samyukta
+Anvi
 --
 Four
 Five
@@ -12,3 +13,5 @@ Yellow
 Pink
 Purple
 Black
+Light pink
+Light blue
